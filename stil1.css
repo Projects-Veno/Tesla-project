@@ -455,10 +455,10 @@ color:  white;
 :focus:-moz-placeholder {		 /*promena teksta placeholdera u mozili */
 color:  white;
 }
-
+#poruka {
+paading-top:15px;
+}
 /*END FORMA END*/
-
-
 .footer {
 	position:relative;
 	color:white;
