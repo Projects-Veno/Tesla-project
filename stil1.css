@@ -345,6 +345,14 @@ nav ul ul li {
 		margin: 23% 0 0;
 		padding: 15px 0;
 	}
+ 	.zoom-caption span a{
+		 text-decoration: none;
+		 color: white;
+	 }
+	 .zoom-caption span a:visited {
+		 color:white;
+	 }
+
 
 	.zoom-container:hover img {
 		-webkit-transform:scale(1.25); /* Safari and Chrome */
