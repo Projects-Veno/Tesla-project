@@ -217,13 +217,13 @@ nav ul ul li {
 }
 .section-text{
   position: absolute;
-  text-decoration:underline;
+  text-decoration:none;
   font-family:Font2;
   font-size: 24px;
   color: white;
   right:61px;
   top:170px;
-	text-align: center;
+  text-align: right;
 }
 .section-text p {
 	line-height: 1.42857143; /*default vrednost u browseru , nekada je ne unosi ovo je sigurnost*/
@@ -292,6 +292,7 @@ nav ul ul li {
 		font-size:14px;
 		font-family:Font1;
 		text-shadow:0.3px 0.3px  #000;
+		text-align: justify;
 	}
 	.image-zoom-container {
 		list-style: none;
