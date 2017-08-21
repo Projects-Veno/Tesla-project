@@ -76,6 +76,9 @@ nav .menu .modelS_text {
 	#naslov-model3 {
 		padding-right: 40%;
 	}
+	 #home-dugme {
+		display: none;
+	}
  }
 @media (min-width:992px){
 	nav .menu {
